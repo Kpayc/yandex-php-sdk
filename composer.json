@@ -9,6 +9,7 @@
         "rest",
         "api"
     ],
+    "name": "kpayc/yandex-php-sdk",
     "homepage": "https://openapi-generator.tech",
     "license": "unlicense",
     "authors": [
